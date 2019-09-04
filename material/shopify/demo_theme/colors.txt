@@ -1,0 +1,8 @@
+* Accent color
+  #3f51b5
+
+* Email body color = email_body_color
+  #d9dcee
+
+* Button color = email_button_color
+  #ff4081

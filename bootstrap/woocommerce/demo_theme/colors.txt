@@ -1,0 +1,14 @@
+* Base color
+  #292b2c
+
+* Background color
+  #ffffff
+
+* Body background color
+  # option not available for this template
+
+* Body text color
+  #757575
+
+
+Note: set3 has no background image option

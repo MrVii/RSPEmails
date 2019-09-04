@@ -1,0 +1,14 @@
+* Base color
+  #3f51b5
+
+* Background color
+  #d9dcee
+
+* Body background color
+  #ffffff
+
+* Body text color
+  #616161
+
+
+Note: set3 has no background image option
